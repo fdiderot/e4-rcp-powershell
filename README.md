@@ -1,1 +1,1 @@
-# e4-rcp-powershell
+# e4-rcp-rest-powershell
